@@ -1,0 +1,17 @@
+{
+  "name": "cli-chatgpt",
+  "version": "1.0.0",
+  "description": "A simple command-line interface (CLI) application that uses OpenAI's GPT-3 API to have interactive conversations with the chatbot. This application is built using TypeScript and Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc && node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.17.1",
+    "typescript": "^5.2.2"
+  }
+}
