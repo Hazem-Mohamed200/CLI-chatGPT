@@ -39,7 +39,7 @@ To use this application, you'll need an API key from OpenAI. Follow these steps 
 
 ## Configuration
 
-Once you have obtained the API key, navigate to the ```index.ts``` file and replace `your-api-key` with the API key obtained from OpenAI. This file will be automatically loaded by the application to authenticate API requests.
+Once you have obtained the API key, navigate to the ```index.ts``` file and replace `your-api-key` with the API key obtained from OpenAI.
 
 ## Usage
 
