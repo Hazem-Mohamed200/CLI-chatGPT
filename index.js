@@ -14,7 +14,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const openai_1 = __importDefault(require("openai"));
 const readline_1 = __importDefault(require("readline"));
-const openaiKey = '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';
+const openaiKey = 'your-api-key';
 const openai = new openai_1.default({ apiKey: openaiKey });
 const rl = readline_1.default.createInterface({
     input: process.stdin,
